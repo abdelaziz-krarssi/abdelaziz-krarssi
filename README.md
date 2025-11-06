@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelaziz
 
-<!--
-**abdelaziz-krarssi/abdelaziz-krarssi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Cybersecurity student passionate about **Web Application Security**
+- Currently learning **OWASP Top 10** vulnerabilities
+- Practicing on **HackTheBox** and **PortSwigger Academy**
+- Building security tools and automation scripts
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Learning
+- **Web Security**: SQL Injection, XSS, Authentication flaws
+- **Tools**: Burp Suite, Python, Linux
+- **Languages**: Python, JavaScript, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Working On
+- Solving HackTheBox machines
+- Building my first security scanner
+- Learning API security testing
+
+## 📫 Connect With Me
+- LinkedIn: [abdelaziz krarssi](https://www.linkedin.com/in/abdelaziz-krarssi-6207a4252/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdelaziz-krarssi&color=blue)
