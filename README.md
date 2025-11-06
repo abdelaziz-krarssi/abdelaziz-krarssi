@@ -20,5 +20,3 @@
 - LinkedIn: [abdelaziz krarssi](https://www.linkedin.com/in/abdelaziz-krarssi-6207a4252/)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdelaziz-krarssi&color=blue)
